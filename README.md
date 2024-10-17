@@ -22,6 +22,8 @@ App can be downloaded from [Google Drive](https://drive.google.com/file/d/1mfBsU
 - Real-time updates on shipment status
 - Input validation for courier partners
 
+Note- Amazon tracking not supported
+
 ## Getting Started
 
 To clone and run this project locally, follow these steps:
