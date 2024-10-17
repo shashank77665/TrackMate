@@ -7,13 +7,13 @@ App can be downloaded from [Google Drive](https://drive.google.com/file/d/1mfBsU
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshot_1.png)
+![Home Screen](screenshot/screenshot_1.png)
 
 ### Search Result
-![Search Result](screenshot_2.png)
+![Search Result](screenshot/screenshot_2.png)
 
 ### Not Valid Courier Partner
-![Not Valid Courier Partner](screenshot_3.png)
+![Not a  Valid Courier Partner](screenshot/screenshot_3.png)
 
 ## Features
 
